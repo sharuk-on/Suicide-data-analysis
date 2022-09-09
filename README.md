@@ -1,4 +1,4 @@
-# In-depth analysis on Suicide in India (2001-2014) [Blog post]()
+# In-depth analysis on Suicide in India (2001-2014) [Blog post](https://officialsharuk.wixsite.com/site/post/in-depth-analysis-on-suicide-in-india-2001-2014)
 ## Data cleaning using python
 ### About Primary dataset:
 The datasets collected for this project represents 5 different aspects of the suicide victims, they are.
@@ -46,3 +46,5 @@ Let’s see the data cleaning process that used to clean all the 5 aspects of th
 
 ### Secondary Dataset
 - These census dataset are used to calculate per capita victims.
+
+For Detailed analysis, visit this [Blog post](https://officialsharuk.wixsite.com/site/post/in-depth-analysis-on-suicide-in-india-2001-2014).
